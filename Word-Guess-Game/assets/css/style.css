@@ -1,0 +1,27 @@
+h2 {
+    margin: 0 auto;
+    display: block;
+    font-family: 'Georgia', Times, serif;
+    color: teal;
+    background-size: 100%;
+    border: 1inch;
+    border-style: dashed;
+    background-color: skyblue;
+    border-color: greenyellow;
+    width: 100%;
+
+}
+
+h3 {
+    color: palevioletred;
+}
+
+.bg-light {
+    background-color: green !important;}
+
+ body {
+        background-size: 100%;
+        background-image: url("leaves.png");
+        /* width: 960px; */
+    }
+    
